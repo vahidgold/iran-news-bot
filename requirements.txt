@@ -1,5 +1,5 @@
 python-telegram-bot
+requests
+googletrans==4.0.0-rc1
 apscheduler
 pytz
-googletrans==4.0.0-rc1
-requests
